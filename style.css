@@ -1,0 +1,55 @@
+body{
+	background: aqua;
+}
+.top{
+	width: 100%;
+	height: 90px;
+	background: black;
+	border: 1px solid red;
+	margin: 0;
+}
+.container{
+	width: 100%;
+	height: 500px;
+	background: black;
+	border: 1px solid red;
+	margin-top: 10px;
+}
+.navigation{
+ text-align: center;
+ color: red;
+ border: 1px solid red;
+ height: 40px;
+
+}
+.loge{
+	text-decoration: none;
+	color: red;
+	margin-left: 10px;
+	margin-right: 40px;
+	
+}
+
+.container{
+	display: flex;
+	justify-content: space-between;
+
+}
+footer{
+	background: black;
+	color: red;
+	margin-top: 1px;
+	border: 1px solid red;
+}
+.cent{
+	border: 1px solid red;
+	margin-right: 5px;
+}
+.right{
+	border: 1px solid red;
+	margin-right: 5px;
+}
+.righ{
+	border: 1px solid red;
+	margin-right: 5px;
+}
